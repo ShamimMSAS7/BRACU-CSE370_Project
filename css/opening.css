@@ -1,0 +1,39 @@
+body{
+	background-image: url('bg.jpg');
+	text-align: center;
+	font-family: arial;
+}
+
+.box {
+	width:500;
+	height: 40;
+	background-color: #006666;
+	color: white;
+	font-size: 15;
+}
+.submit{
+	padding: 10px 15px;
+	background-color: white;
+	color: black;
+	cursor: pointer;
+	font-size: 15;
+	border: 2px solid green;
+}
+.submit:hover{
+	background-color: #006666;
+	color: white;
+}
+a:link{
+	background-color: white;
+	color: black;
+	border: 2px solid green;
+	padding: 10px 15px;
+	text-align: center;
+	font-size: 15;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: #006666;
+	color: white;
+}
